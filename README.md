@@ -10,7 +10,12 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 
 ## History
-- 10 July 2023 - Version 1.0.0
+- 12 July 2023 - Version 1.0.0.3
+    - 使用多線程 Demo
+    - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
+<br>
+
+- 10 July 2023 - Version 1.0.0.0
     - 創建版
     - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
 <br>
@@ -32,7 +37,7 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 # 【從 JetEazy Ftp Server 下載相關安裝檔案】
 - https://download.jeteazy.com/LeTian/EzSeg/
-- https://download.jeteazy.com/LeTian/EzSeg/EzSegDemo_Setup_1.0.0.0.exe
+- https://download.jeteazy.com/LeTian/EzSeg/EzSegDemo_Setup_1.0.0.3.exe
 - https://download.jeteazy.com/LeTian/EzSeg/requirements.txt 
 <br/>
 <br/>
@@ -86,7 +91,7 @@ pip install -r requirements.txt
     執行安裝包:
 
 ```
-EzSeg_Setup_1.0.0.0.exe
+EzSeg_Setup_1.0.0.3.exe
 ```
 ------------------------------------------------------------------
 (5) 執行背景服務程式
