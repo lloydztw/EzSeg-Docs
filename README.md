@@ -10,6 +10,11 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 
 ## History
+- 13 July 2023 - Version 1.0.1.0
+    - 更新默認的訓練模型檔
+    - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
+<br>
+
 - 12 July 2023 - Version 1.0.0.3
     - 使用多線程 Demo
     - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
@@ -91,7 +96,7 @@ pip install -r requirements.txt
     執行安裝包:
 
 ```
-EzSeg_Setup_1.0.0.3.exe
+EzSeg_Setup_1.0.1.0.exe
 ```
 ------------------------------------------------------------------
 (5) 執行背景服務程式
