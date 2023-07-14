@@ -42,7 +42,7 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 # 【從 JetEazy Ftp Server 下載相關安裝檔案】
 - https://download.jeteazy.com/LeTian/EzSeg/
-- https://download.jeteazy.com/LeTian/EzSeg/EzSegDemo_Setup_1.0.1.0.exe
+- https://download.jeteazy.com/LeTian/EzSeg/EzSegDemo_Setup_1.0.1.1.exe
 - https://download.jeteazy.com/LeTian/EzSeg/requirements.txt 
 <br/>
 <br/>
