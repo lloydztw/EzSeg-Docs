@@ -32,6 +32,7 @@ A segmentation server written in pytorch.
 - visual studio 2022
 - anaconda (https://www.anaconda.com/download)
     - 必須安裝在 C:\anaconda3 資料夾
+    - 注意: 環境變數 path 必須包含 c:\Anaconda3 與 c:\Anaconda3\Scripts
 - nVidia CUDA tool kits 11.7 (或 11.3)
     - https://developer.nvidia.com/cuda-11-7-0-download-archive
 - nVidia cuDnn 11.x
@@ -90,6 +91,10 @@ conda install -c conda-forge ultralytics
 ```
 pip install -r requirements.txt
 ```
+
+注意: 使用 conda list 檢查
+fastapi, uvicorn, python-multipart, jinja2 
+是否都正確被安裝!
 
 ------------------------------------------------------------------
 (4) 安裝 C# 程式專案,<br/>
