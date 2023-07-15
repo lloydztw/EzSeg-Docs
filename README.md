@@ -54,6 +54,7 @@ A segmentation server written in pytorch.
     - https://download.jeteazy.com/LeTian/EzSeg/install/install_pytorch_cuda.cmd
     - https://download.jeteazy.com/LeTian/EzSeg/install/.condarc_zju
     - https://download.jeteazy.com/LeTian/EzSeg/install/requirements.txt
+    - https://download.jeteazy.com/LeTian/EzSeg/install/post_check_pytorch.py
     - https://download.jeteazy.com/LeTian/EzSeg/install/EzSegDemo_Setup_1.0.1.2.exe
 <br/>
 <br/>
