@@ -73,7 +73,7 @@ cd d:\tmp\EzSeg
 ```
 (1.1) 如果是 CUDA v11.3, 輸入以下指令 <br/>     
 ```
-install_pytorch_cuda.cmd
+install_pytorch_cuda.cmd 11.3
 ```
 (1.2) 如果是 CUDA v11.7, 輸入以下指令 <br/>  
 ```    
