@@ -10,7 +10,7 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 
 ## History
-- 15 July 2023 - Version 1.0.1.2
+- 15 July 2023 - Version 1.0.2.0
     - 重新製作 中國牆內專用 pytorch + cuda 一鍵式 安裝
     - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
 <br>
