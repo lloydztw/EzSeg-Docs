@@ -20,11 +20,6 @@ A segmentation server written in pytorch.
     - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
 <br>
 
-- 12 July 2023 - Version 1.0.0.3
-    - 使用多線程 Demo
-    - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
-<br>
-
 - 10 July 2023 - Version 1.0.0.0
     - 創建版
     - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
