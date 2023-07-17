@@ -55,7 +55,7 @@ A segmentation server written in pytorch.
     - https://download.jeteazy.com/LeTian/EzSeg/install/.condarc_zju
     - https://download.jeteazy.com/LeTian/EzSeg/install/requirements.txt
     - https://download.jeteazy.com/LeTian/EzSeg/install/post_check_pytorch.py
-    - https://download.jeteazy.com/LeTian/EzSeg/install/EzSegDemo_Setup_1.0.1.2.exe
+    - https://download.jeteazy.com/LeTian/EzSeg/install/EzSegDemo_Setup_1.0.2.0.exe
 <br/>
 <br/>
 至暫存資料夾, d:\tmp\EzSeg
