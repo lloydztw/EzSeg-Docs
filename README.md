@@ -10,6 +10,13 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 
 ## History
+- 19 July 2023 - Version 1.0.3.1
+    - Server/Model 使用多線程
+    - 更新 Demo 與 Example2 (可以同時預測多張圖)
+    - 【注意】此版必須 安裝 7z 才能搭配使用 !!!
+<br/>
+<br/>
+     
 - 15 July 2023 - Version 1.0.2.0
     - 重新製作 中國牆內專用 pytorch + cuda 一鍵式 安裝
     - Revised by [@letian Chang](https://lloydztw.github.io/mysite/).
@@ -28,12 +35,18 @@ A segmentation server written in pytorch.
 ------------------------------------------------------------------
 # 【Windows 平台相關工具套件】
 ## 請預先安裝以下套件
+
 - Visual Studio 2022
     - 請選用 community 版本
+      
 - Anaconda (https://www.anaconda.com/download)
     - 必須安裝在 C:\anaconda3 資料夾
     - 安裝完成後, 請設定 系統環境變量 path 必須包含 c:\Anaconda3 與 c:\Anaconda3\Scripts
-
+      
+- 7z 解壓縮工具
+    - https://www.7-zip.org/
+    - 必須安裝在 C:\Program Files\7-Zip\ 資料夾
+      
 - nVidia CUDA tool kits 11.7 (或 11.3)
     - https://developer.nvidia.com/cuda-11-7-0-download-archive
 - nVidia cuDnn 11.x
@@ -50,7 +63,7 @@ A segmentation server written in pytorch.
     - https://download.jeteazy.com/LeTian/EzSeg/install/.condarc_zju
     - https://download.jeteazy.com/LeTian/EzSeg/install/requirements.txt
     - https://download.jeteazy.com/LeTian/EzSeg/install/post_check_pytorch.py
-    - https://download.jeteazy.com/LeTian/EzSeg/install/EzSegDemo_Setup_1.0.2.0.exe
+    - https://download.jeteazy.com/LeTian/EzSeg/install/EzSegDemo_Setup_1.0.3.1.exe
 <br/>
 <br/>
 至暫存資料夾, d:\tmp\EzSeg
@@ -86,7 +99,7 @@ gpu= 1
     執行安裝包:
 
 ```
-EzSeg_Setup_1.0.2.0.exe
+EzSeg_Setup_1.0.3.1.exe
 ```
 ------------------------------------------------------------------
 (3) 執行背景服務程式
